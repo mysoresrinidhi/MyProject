@@ -1,1 +1,2 @@
 GitLab Test
+Adding new line
